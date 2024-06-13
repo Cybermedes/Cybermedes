@@ -3,8 +3,8 @@
 - 💻 I'm a software developer, a continuos learner and a fan of Linux and free & open-source projects - Eu sou um desenvolvedor de software, um aprendiz contínuo e um fã de Linux e projetos gratuitos & código-aberto
 - ☑️ My goal is to become a Java back-end developer - O meu objetivo é me tornar um desenvoldedor Java back-end
 - 🛠️ My skills - minhas habilidades:
-    - Java (JDK 17)
-    - Python (3.11)
+    - Java (JDK 21)
+    - Python (3.12)
     - Git / GitHub
     - Apache Maven
     - Spring Framework
